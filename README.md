@@ -26,7 +26,7 @@ Developed a fully functional e-commerce platform with *product listings, **user 
 ## 📚 Education
 
 *B.Tech in Information Technology*  
-University Name (2020–2024)  
+University Name (2021–2025)  
 - Key skills: *Software development, **Web technologies, **Cloud computing*.
 
 ## 🏀 Activities & Interests
